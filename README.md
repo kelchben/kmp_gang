@@ -1,4 +1,4 @@
-# was ist hiermit?
+# was ist hermit?
 
 # kmp_gang
 SE WiSe2017
